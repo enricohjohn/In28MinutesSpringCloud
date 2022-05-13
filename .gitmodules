@@ -1,0 +1,3 @@
+[submodule "Microservices-with-Spring-Boot-and-Cloud/localconfig-repo_test"]
+	path = Microservices-with-Spring-Boot-and-Cloud/localconfig-repo_test
+	url = https://github.com/enricohjohn/In28MinutesSpringCloud.git
